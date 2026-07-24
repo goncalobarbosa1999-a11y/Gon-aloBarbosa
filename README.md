@@ -48,3 +48,16 @@ Quem criou?
 - O Python surgiu oficialmente em 20 de fevereiro de 1991, com o lançamento da versão 0.9.0.
 O desenvolvimento começou um pouco antes, em dezembro de 1989, no instituto de pesquisa holandês CWI. [1, 2] 
 - Os Primeiros Anos (Anos 90)1991 (Python 0.9.0): Lançamento inicial com funções, classes e tratamento de exceções.1994 (Python 1.0): Introdução de ferramentas funcionais como lambda, map e filter.2. A Consolidação (Anos 2000)2000 (Python 2.0): Introdução de listas por compreensão (list comprehensions) e do sistema de garbage collection.2008 (Python 3.0): Uma grande reformulação interna criada para corrigir falhas de design.A Grande Rutura: O Python 3 quebrou a compatibilidade com o Python 2, exigindo anos de transição na indústria.3. A Era Moderna e a Explosão da IA (Anos 2010 até ao Presente)2020: Fim oficial do suporte ao Python 2 (End of Life).Foco em Velocidade: Versões recentes (como Python 3.11 e superiores) trouxeram saltos massivos de desempenho.Liderança Global: Boom impulsionado pela ascensão de bibliotecas de Machine Learning e Big Data.
+  
+## 5.1.4 [4] - Principais Características
+- Sintaxe simples: Código limpo e intuitivo, muito próximo da linguagem humana (em inglês).
+
+- Multiplataforma: Roda perfeitamente em diferentes sistemas operacionais (Windows, macOS, Linux).
+
+- Grande comunidade: Milhões de desenvolvedores ativos que criam conteúdos, fóruns de ajuda e documentação.
+
+- Muitas bibliotecas: Conta com milhares de pacotes prontos para Ciência de Dados, IA, Web, Automação e muito mais.
+
+- Código aberto (Open Source): Gratuito para uso pessoal ou comercial e mantido de forma colaborativa.
+
+- Fácil aprendizagem: Curva de aprendizado suave, sendo uma das melhores linguagens para quem está começando.
