@@ -19,4 +19,17 @@ Referência Prática: Disponibilizar scripts funcionais organizados por tópicos
 
 Mapeamento de Ferramentas: Apresentar as principais bibliotecas utilizadas para Ciência de Dados, Inteligência Artificial, Desenvolvimento Web e Automação.
 
+# Guia Básico de Pyton
+# Gonçalo Barbosa
+# 24/07/2026
+Objetivo do documento: O objetivo deste documento é servir como um material didático, prático e de rápida consulta sobre os conceitos fundamentais do Python.
 
+Especificamente, ele busca:
+
+Introduzir a linguagem: Apresentar a sintaxe básica de forma clara e acessível para quem está começando.
+
+Apresentar pilares essenciais: Ensinar conceitos cruciais como variáveis, entrada de dados, estruturas condicionais (if/else), laços de repetição (for/while), coleções (listas/dicionários) e funções.
+
+Oferecer exemplos práticos: Disponibilizar blocos de código funcionais que podem ser copiados, testados e adaptados facilmente.
+
+Padronizar a documentação: Servir como o arquivo principal de leitura (README.md) para repositórios educativos do GitHub ou guias de estudo.
