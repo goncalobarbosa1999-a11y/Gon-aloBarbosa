@@ -18,7 +18,8 @@ Facilitar o Aprendizado: Oferecer explicativos didáticos sobre a sintaxe e os p
 Referência Prática: Disponibilizar scripts funcionais organizados por tópicos do ecossistema Python.
 
 Mapeamento de Ferramentas: Apresentar as principais bibliotecas utilizadas para Ciência de Dados, Inteligência Artificial, Desenvolvimento Web e Automação.
-
+## 5.1
+## 5.1.1 [1] Título do Projeto
 # Guia Básico de Pyton
 # Gonçalo Barbosa
 # 24/07/2026
@@ -33,3 +34,8 @@ Apresentar pilares essenciais: Ensinar conceitos cruciais como variáveis, entra
 Oferecer exemplos práticos: Disponibilizar blocos de código funcionais que podem ser copiados, testados e adaptados facilmente.
 
 Padronizar a documentação: Servir como o arquivo principal de leitura (README.md) para repositórios educativos do GitHub ou guias de estudo.
+
+## 5.1.2 [2] - Introdução
+A linguagem Python é uma linguagem de programação de alto nível, interpretada, de uso geral e focada em legibilidade de código. Criada no final dos anos 1980 pelo holandês Guido van Rossum, ela nasceu com o objetivo principal de substituir a linguagem ABC e facilitar a produtividade dos programadores, permitindo escrever ideias com muito menos linhas de código em comparação com linguagens como C e Java.
+
+Seu nome é uma homenagem ao grupo britânico de comédia Monty Python. A linguagem tornou-se extremamente popular em todo o mundo graças à sua sintaxe simples e intuitiva, que lembra a escrita em inglês e reduz a curva de aprendizado para iniciantes. Além disso, conta com uma comunidade vasta e um ecossistema gigante de bibliotecas gratuitas e prontas para uso, sendo hoje a ferramenta padrão em áreas estratégicas da tecnologia, como Inteligência Artificial, Ciência de Dados, automação e desenvolvimento web.
