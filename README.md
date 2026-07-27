@@ -102,4 +102,4 @@ A linguagem Python é de extrema importância no cenário tecnológico atual por
 ### 7- Criar uma imagem no README
 
 ![logo](https://gjundisk01.blob.core.windows.net/it360/worker360/Blog/blog_20250815/blog_20250815-1.png)
-
+! [logo](https://www.google.com/imgres?q=stranger%20Things&imgurl=https%3A%2F%2Fwww.magazine-hd.com%2Fapps%2Fwp%2Fwp-content%2Fuploads%2F2025%2F12%2Fstranger-things-s5-3.webp&imgrefurl=https%3A%2F%2Fwww.magazine-hd.com%2Fapps%2Fwp%2Fstranger-things-regressa-netflix-novos-episodios-final-polemico%2F&docid=jhOUCy7fW2xuqM&tbnid=sqOM_3uS1zWT-M&vet=12ahUKEwjdkf61vfKVAxUBTqQEHRHQGjgQnPAOegUIigIQAA..i&w=728&h=385&hcb=2&ved=2ahUKEwjdkf61vfKVAxUBTqQEHRHQGjgQnPAOegUIigIQAA)
