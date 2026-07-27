@@ -61,3 +61,26 @@ O desenvolvimento começou um pouco antes, em dezembro de 1989, no instituto de 
 - Código aberto (Open Source): Gratuito para uso pessoal ou comercial e mantido de forma colaborativa.
 
 - Fácil aprendizagem: Curva de aprendizado suave, sendo uma das melhores linguagens para quem está começando.
+  
+  ## 5.1.5 [5]
+  print ("Hello World)
+
+  ## 5.1.6 [6]- Aplicações da Linguagem
+  
+  - Desenvolvimento Web: Utilizado na criação do back-end de sites, APIs e aplicações web robustas. Frameworks populares como Django, FastAPI e Flask facilitam a criação de plataformas escaláveis, gerenciando bancos de dados, autenticação de usuários e rotas com facilidade.
+
+- Inteligência Artificial (IA) e Machine Learning: O Python é a ferramenta padrão no setor de IA. Com bibliotecas avançadas como TensorFlow, PyTorch e Scikit-Learn, desenvolvedores constroem redes neurais, modelos preditivos e sistemas de inteligência generativa.
+
+- Ciência de Dados (Data Science): Usado para extrair, limpar, analisar e visualizar grandes volumes de informações. Ferramentas como Pandas, NumPy, Matplotlib e Seaborn permitem transformar dados brutos em relatórios, gráficos e insights estratégicos para tomada de decisão.
+
+- Desenvolvimento de Jogos: Embora não seja a primeira escolha para jogos de altíssimo desempenho gráficos (AAA), é amplamente utilizado no desenvolvimento de jogos indie, prototipagem rápida e na criação de scripts de lógica interna de jogos utilizando bibliotecas como Pygame e Arcade.
+
+- Automação e Web Scraping: Excelente para eliminar tarefas manuais e repetitivas do dia a dia. Com scripts simples utilizando BeautifulSoup, Selenium e Requests, é possível extrair dados automaticamente da internet, ler e alterar planilhas, manipular arquivos e automatizar relatórios.
+  
+  ## 5.1.7 [7 ] Vantagens e Desvantagens
+
+
+| Vantagens | Desvantagens |
+| --- | --- |
+| Fácil de aprender | Mais lenta que C |
+| Grande comunidade | Consome mais memória |
