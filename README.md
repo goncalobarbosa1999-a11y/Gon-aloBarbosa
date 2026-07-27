@@ -84,3 +84,13 @@ O desenvolvimento começou um pouco antes, em dezembro de 1989, no instituto de 
 | --- | --- |
 | Fácil de aprender | Mais lenta que C |
 | Grande comunidade | Consome mais memória |
+
+### 5.1.8 8 – Recursos para Aprender
+
+Aqui está uma lista com 5 links úteis para o aprendizado de Python, abrangendo documentação, tutoriais, cursos, livros e vídeos:
+
+* **Documentação Oficial:** [Documentação do Python em Português](https://docs.python.org/pt-br/3/) — Guia oficial mantido pela comunidade com tutoriais e manuais de referência.
+* **Tutoriais:** [W3Schools - Python Tutorial](https://www.w3schools.com/python/) — Plataforma prática com exercícios interativos e explicações passo a passo sobre a sintaxe.
+* **Cursos:** [Curso em Vídeo - Python (Gustavo Guanabara)](https://www.google.com/search?q=https://www.youtube.com/playlist%3Flist%3DPLvE-ZAFRgX8hnECDn1v9Hq167f8Yn03W3) — Um dos cursos gratuitos mais populares em português para iniciantes na linguagem.
+* **Livros:** [Pense em Python (2ª Edição - O'Reilly)](https://penseallen.github.io/PensePython2e/) — Livro gratuito e traduzido focado no ensino do pensamento computacional usando Python.
+* **Vídeos / Exercícios:** [LeetCode - Python Practice](https://leetcode.com/) — Plataforma recomendada para resolver desafios práticos de código e algoritmos em Python.
