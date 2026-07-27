@@ -98,3 +98,8 @@ Aqui está uma lista com 5 links úteis para o aprendizado de Python, abrangendo
 ### 5.1.9 9 – Conclusão
 
 A linguagem Python é de extrema importância no cenário tecnológico atual por ser uma das ferramentas mais acessíveis, produtivas e versáteis do ecossistema de software. Sua sintaxe clara reduz drasticamente a curva de aprendizado e o tempo de desenvolvimento, democratizando a programação e impulsionando grandes inovações globais. Ela deve ser utilizada principalmente em projetos que envolvam **análise e ciência de dados**, desenvolvimento de **modelos de inteligência artificial**, **automação de tarefas repetitivas**, criação de **sistemas web dinâmicos** e para **prototipagem rápida de softwares**. Por contar com um acervo gigantesco de bibliotecas e uma comunidade ativa, é a escolha ideal tanto para quem está dando os primeiros passos na programação quanto para empresas que buscam soluções eficientes e escaláveis.
+
+### 7- Criar uma imagem no README
+
+![logo](https://gjundisk01.blob.core.windows.net/it360/worker360/Blog/blog_20250815/blog_20250815-1.png)
+
